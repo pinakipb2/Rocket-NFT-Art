@@ -1,0 +1,35 @@
+{
+  "dna": "8251d29d85c1816c3968848fb4654f3c1de458cb",
+  "name": "#265",
+  "description": "Test Rocket NFTs",
+  "image": "ipfs://NewUriToReplace/265.png",
+  "edition": 265,
+  "date": 1632653352997,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "A"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Colors",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fire",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "India"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Frame"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
